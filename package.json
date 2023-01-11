@@ -1,8 +1,10 @@
 {
   "name": "logres",
+  "publisher": "KelwinHollunder",
   "displayName": "logres",
   "description": "A snippet to help javascript/typescript developers daily",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "repository": "https://github.com/MasterKelwin/Logres",
   "engines": {
     "vscode": "^1.74.0"
   },
