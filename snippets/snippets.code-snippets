@@ -1,0 +1,10 @@
+{
+	"logres": {
+		"prefix": "logres",
+		"body": [
+		"console.log('------------------');",
+		"console.log({ response: res });",
+		"console.log('------------------');"
+		]
+	}
+}
