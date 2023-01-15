@@ -3,7 +3,7 @@
   "publisher": "KelwinHollunder",
   "displayName": "logres",
   "description": "A snippet to help javascript/typescript developers daily",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": "https://github.com/MasterKelwin/Logres",
   "engines": {
     "vscode": "^1.74.0"
